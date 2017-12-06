@@ -1,4 +1,5 @@
 # About SalesTrip
+![logo](https://i.imgur.com/qIafrmh.png)
 
 "Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SaleTrip will change that. 
 
