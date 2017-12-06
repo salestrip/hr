@@ -9,8 +9,8 @@ The SalesTrip technology team is based in central London, working out of WeWork 
 What we need now is our #1 NodeJS hire, so please browse the job description below and get in touch if it's something you could be interested in!
 
 # Senior Back End Developer - Central London
-As said above, we're looking for the first person to hire into our team to build the foundations (and beyond!) of the SalesTrip Engine.
-Responsibilities
+As said above, we're looking for the first person to hire into our team to build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that enjoys designing holistic solutions.
+
 ## Responsibilities
 - You will have a joint responsibility in technology selection, and platform architecture design
 - You will jointly design our microservices architecture and resultant APIs
@@ -20,7 +20,23 @@ Responsibilities
 ## Skills & Experience
 ### Required
 
+- Significant tech leadership experience
+- Very experienced in software design including microservices architecture and API design
+- Well versed in NodeJS and Express
+- Proficient in testing methodologies in JavaScript / NodeJS
+- A deep knowledge od relational and NoSQL databases
+- Full command of Git, GitHub and Continuous Integration / Deployment based workflows
 
+### Added Bonuses but not Required
+- Familiarity with building SaaS applicatoins
+- Experience using Docker, Containers and Kubernetes
+- Experience with front-end frameworks such as React, Angular, etc.
 
-### Added Bonus
+# The Offer
+- The chance to shape an incredible company, with a team that's done it before
+- Stock options for the right candidate
+- Central London office (WeWork) with some remote work
+- Rest is important so we provide a decent number of holidays
+
 # Right up your alley?
+If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [joinus@alacato.com](mailto:joinus@alacato.com).
