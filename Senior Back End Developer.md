@@ -40,4 +40,4 @@ As said above, we're looking for the first person to hire into our team to build
 - Rest is important so we provide a decent number of holidays
 
 # Right up your alley?
-If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [joinus@alacato.com](mailto:mganapathy@alacato.com).
+If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [joinus@salestrip.com](mailto:mganapathy@alacato.com).
