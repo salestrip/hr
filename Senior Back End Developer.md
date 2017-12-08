@@ -2,7 +2,7 @@
 
 "Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SaleTrip will topple the current king.
 
-Our SaaS offering has two major components, the bigger of these being the SalesTrip Engine - a powerful, scalable cloud-based beast built using NodeJS, Redis and Postgres. The engine encompasses a number of microservices hosted on Google Container Engine making our DevOps stack 100% cloud-based and instantly scalable.
+Our SaaS offering will have two major components, CRM and the SalesTrip Engine. The bigger of these will be the SalesTrip Engine - a powerful, scalable cloud-based beast built using best-of-breed technology. The engine encompasses a number of microservices hosted on Google Container Engine making our stack 100% cloud-based and instantly scalable.
 
 The SalesTrip technology team is based in central London, working out of WeWork offices although some of our product definition team are based state-side. We use Slack, Jira, Confluence and Google tech to collaborate across the team, drive our sprints and other Agile ceremonies.
 
@@ -22,7 +22,7 @@ As said above, we're looking for the first person to hire into our team to build
 
 - Tech leadership experience is a must
 - Very experienced in software design including microservices architecture and API design
-- Well versed in NodeJS and Express
+- Well-versed in NodeJS and Express, or similar technology to support the above
 - Proficient in testing methodologies in JavaScript / NodeJS
 - A deep knowledge of relational and NoSQL databases
 - Full command of Git, GitHub and Continuous Integration / Deployment based workflows
