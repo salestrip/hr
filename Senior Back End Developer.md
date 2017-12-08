@@ -1,6 +1,6 @@
 ![logo](https://i.imgur.com/qIafrmh.png)
 
-"Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SaleTrip will topple the current king.
+"Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SalesTrip will topple the current king.
 
 Our SaaS offering will have two major components, CRM and the SalesTrip Engine. The bigger of these will be the SalesTrip Engine - a powerful, scalable cloud-based beast built using best-of-breed technology. The engine encompasses a number of microservices hosted on Google Container Engine making our stack 100% cloud-based and instantly scalable.
 
@@ -14,7 +14,7 @@ As said above, we're looking for the first person to hire into our team to build
 ## Responsibilities
 - You will be key in technology selection, and platform architecture design
 - You will jointly design our microservices architecture and resultant APIs
-- You will lead the engineering methodology in the SaleTrip Engine area, ensuring our adherence to modern design, build and test principles
+- You will lead the engineering methodology in the SalesTrip Engine area, ensuring our adherence to modern design, build and test principles
 - You will be hands-on, developing software with the other early tech hires including the CTO
 - The company will grow rapidly. You be essential to the hiring process as well as being a tech lead as the team grows
 ## Skills & Experience
@@ -40,4 +40,4 @@ As said above, we're looking for the first person to hire into our team to build
 - Rest is important so we provide a decent number of holidays
 
 # Right up your alley?
-If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [joinus@alacato.com](mailto:joinus@alacato.com).
+If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [joinus@alacato.com](mailto:mganapathy@alacato.com).
