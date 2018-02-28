@@ -1,7 +1,7 @@
 # About SalesTrip
-![logo](https://i.imgur.com/qIafrmh.png)
+![logo](https://i.imgur.com/PRIYPup.png)
 
-"Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SaleTrip will change that. 
+"Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SaleTrip will change that.
 
 No business out there has a single consolidated view of their T&E expenditure, or the return on investment. Larger companies spend many millions every year on getting a view on this from a financial perspective. The opportunity is enormous, SalesTrip will massively reduce operating costs, whilst also facilitating proactive capabilities in the T&E area that aren't yet even being dreamt about.
 
