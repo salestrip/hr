@@ -50,13 +50,13 @@ Ideally you will have a proven track record working on scalable web applications
 
 ## The Offer
 - The chance to shape an incredible company, with a team that have built and sold several companies before
-- Stock options for the right candidate
+- Stock options
 - A market-related salary. No need to take a massive pay cut when joining us
 - Central London office with some remote work
 - Rest is important so we provide a decent number of holidays
 
 ## Right up your alley?
-If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [joinus@salestrip.com](mailto:jobs@salestrip.com).
+If you are a good fit for the above, or would like to discuss the role in more detail please get in touch with us [jobs@salestrip.com](mailto:jobs@salestrip.com).
 
 # About SalesTrip
 "Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SalesTrip will topple the current king.
