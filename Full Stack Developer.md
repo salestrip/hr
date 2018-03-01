@@ -19,6 +19,7 @@ Our team includes some of the best industry experts and working with them helps 
 - You will lead the engineering methodology in the SalesTrip Engine area, ensuring our adherence to modern design, build and test principles
 - You will be hands-on, developing software with the other early tech hires including the CTO
 - The company will grow rapidly. You be essential to the hiring process as well as being a tech lead as the team grows
+
 ## Skills & Experience
 ### Required
 
@@ -30,16 +31,21 @@ Ideally you will have a proven track record working on scalable web applications
 - Experience with and appreciation for Test Driven Development
 - A love for writing clean, efficient, readable code
 - Experience working in cross-functional delivery teams
-- Full command of Git, GitHub and/or BitBucket
+- Full command of Git, including GitHub and/or BitBucket
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English
 - Location: London, UK
 
-### Added Bonuses but not Required
-- Experience with Vue.js, React, TypeScript, Hapi or Express framework
+### Bonus but not Required
+- Hapi
+- Docker
+- Kubernetes
+- Google Cloud Platform
+- Vue.js, and/or React
+- RxJS
+- TypeScript
 - Familiarity with microservice or service based architectures
-- Experience with Continuous Integration / Deployment workflows
-- Open source mindset
+- Experience with Continuous Integration and Continuous Deployment
 - Experience in the travel industry
 
 ## The Offer
