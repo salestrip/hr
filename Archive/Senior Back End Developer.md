@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/ssIuhQW.jpg)
+![logo](https://i.imgur.com/ssIuhQW.jpg =200x)
 
 "Travel and Expenses" is a multi-billion dollar industry dominated by one major player with software that should've been retired in the early 00s. SalesTrip will topple the current king.
 
