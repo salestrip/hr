@@ -3,7 +3,7 @@
 # Software Engineer (Full Stack and Backend Roles Available) - Central London, UK
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/salestrip/salestrip)
 
-We're looking for a software engineer to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will own the development process of specific features in our SaaS offering. You'll engage in problem analysis and create feature plans that outline implementation details. You'll code and build features in ad-hoc, cross-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to the Lead Architect of this platform area.
+We're looking for software engineers to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will own the development process of specific features in our SaaS offering. You'll engage in problem analysis and create feature plans that outline implementation details. You'll code and build features in ad-hoc, cross-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to Sid, the Lead Architect of this platform area.
 
 ## Responsibilities
 ### Participate in feature design
