@@ -1,6 +1,8 @@
 <img src="https://i.imgur.com/ssIuhQW.jpg" width="200px">
 
 # Software Engineer (Full Stack and Backend Roles Available) - Central London, UK
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/salestrip/salestrip)
+
 We're looking for a software engineer to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will own the development process of specific features in our SaaS offering. You'll engage in problem analysis and create feature plans that outline implementation details. You'll code and build features in ad-hoc, cross-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to the Lead Architect of this platform area.
 
 ## Responsibilities
@@ -53,6 +55,7 @@ Ideally you will have a proven track record working on scalable web applications
 - Stock options
 - A market-related salary. No need to take a massive pay cut when joining us
 - Central London office with some remote work
+- A generous hardware budget
 - Rest is important so we provide a decent number of holidays
 
 ## Right up your alley?
@@ -68,4 +71,4 @@ The SalesTrip technology team is based in central London, although some of our p
 We are now looking to grow our development team by adding a Full Stack developer that loves a challenge.
 
 ## SalesTrip Tech Stack
-<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/af30268faf72574fd4f002b4a3d4dd"/></a>    <script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+![SalesTrip Tech Stack](https://i.imgur.com/lS6UKns.png)
