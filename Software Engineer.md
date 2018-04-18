@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/ssIuhQW.jpg" width="200px">
 
-# Full Stack Developer - Central London, UK
-We're looking for a Full Stack Developer to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will own the development process of specific features in our SaaS offering. You'll engage in problem analysis and create feature plans that outline implementation details. You'll code and build features in ad-hoc, cross-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to the Lead Architect of this platform area.
+# Software Engineer (Full Stack and Backend Roles Available) - Central London, UK
+We're looking for a software engineer to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will own the development process of specific features in our SaaS offering. You'll engage in problem analysis and create feature plans that outline implementation details. You'll code and build features in ad-hoc, cross-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to the Lead Architect of this platform area.
 
 ## Responsibilities
 ### Participate in feature design
@@ -12,7 +12,7 @@ As you may have guessed, most of your time will be spent coding 🤓 We are a sm
 
 ### Engage with our Product Owners and other key stakeholders
 
-Our team includes some of the best industry experts and working with them helps us understand our users better, and identify the product's pain points. The feedback loop into our requirements gathering process is immediate.
+Our team includes some of the best industry experts and working with them helps us understand our target customers better, as well as identify the product's pain points. The feedback loop into our requirements gathering process is immediate.
 
 - You will be key in technology selection, and platform architecture design
 - You will jointly design our microservices architecture and resultant APIs
@@ -31,7 +31,7 @@ Ideally you will have a proven track record working on scalable web applications
 - Experience with and appreciation for Test Driven Development
 - A love for writing clean, efficient, readable code
 - Experience working in cross-functional delivery teams
-- Full command of Git, including GitHub and/or BitBucket
+- Full command of Git
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English
 - Location: London, UK
@@ -65,4 +65,7 @@ Our SaaS offering will have two major components, CRM and the SalesTrip Engine. 
 
 The SalesTrip technology team is based in central London, although some of our product management team are based state-side. We use Slack, Jira, Confluence and Google tech to collaborate across the team, drive our sprints and other Agile ceremonies.
 
-We are now looking to grow our development team by adding a Full Stack developer that loves a challenge. Take a look the job description below and get in touch if it's something you could be interested in!
+We are now looking to grow our development team by adding a Full Stack developer that loves a challenge.
+
+## SalesTrip Tech Stack
+<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/af30268faf72574fd4f002b4a3d4dd"/></a>    <script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
