@@ -3,14 +3,14 @@
 # Software Engineer (Full Stack and Backend Roles Available) - Central London, UK
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/salestrip/salestrip)
 
-We're looking for software engineers to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will lead the development process of specific features in our SaaS offering. You'll engage in problem analysis and create feature plans that outline implementation details. You'll code and build features in ad-hoc, multi-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to Sid, the Lead Architect of this platform area.
+We're looking for software engineers to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will drive the development process of specific features in our SaaS offering. You'll engage in problem analysis and outline implementation details. You'll code and build features in ad-hoc, multi-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to Sid, the Lead Architect of this platform area.
 
 ## Responsibilities
 ### Participate in feature design
-With our product and UX requirements at hand, you will take part in solution design. We believe that done is better than perfect. We iterate quite fast with a completely continuous deployment pipeline. You and your feature team will build a plan by combining the product requirements with the system's architecture. After a short review and collaboration with the relevant people you will then begin building your feature!
+With our product and UX requirements at hand, you will take part in solution design. We believe that done is better than perfect, and we iterate quite fast with a completely continuous deployment pipeline. You and your feature team will build a plan by combining the product requirements with the system's architecture. After a short review and collaboration with the relevant people you will then begin building your feature!
 
 ### Code
-As you may have guessed, most of your time will be spent coding 🤓 We are a small group (for now), but plan to keep our team structure flat, flexible and multi-functional. Our Kanban process means we have fewer meetings and devote more of our time to building the platform - once you're done with the build-test-deploy components of your feature you simply grab the next card from the top of the pile.
+As you may have guessed, most of your time will be spent coding 🤓 We are a growing team, but plan to keep our operating structure flat, flexible and multi-functional. Our Kanban process means we have fewer meetings and devote more of our time to building the platform - once you're done with the build-test-deploy components of your feature you simply grab the next card from the top of the pile.
 
 ### Engage with our Product Owners and other key stakeholders
 Our team includes some of the best industry experts and working with them helps us understand our target customers better. The feedback loop into our requirements gathering process is immediate.
@@ -19,12 +19,12 @@ Our team includes some of the best industry experts and working with them helps 
 -  You will jointly design our microservices architecture and resultant APIs
 -  You will lead the engineering methodology in the SalesTrip Engine area, ensuring our alignment to modern design, build and test principles
 -  You will be hands-on, developing software with the other early tech hires including the CTO
--  The company will grow rapidly. You be important to the hiring process as well as being a tech lead as the team grows
+-  The company will grow rapidly. You will be important to the hiring process as well as having the option to become a tech lead as the team grows
 
 ## Skills & Experience
 ### Required
 
-Ideally you will have a proven track record working on scalable web applications within a lean agile environment, comfortable working on the newest tech stacks, with a strong focus on quality and delivery.
+Ideally you will have a proven track record working on scalable web applications within a lean agile environment, and be comfortable working on the newest tech stacks with a strong focus on quality and delivery.
 
 - Have a consistent track record of building mission-critical web applications
 - Extensive experience with JavaScript, ES2015 (ES6), ES2016 (ES7)+
@@ -68,10 +68,10 @@ We are an equal opportunity employer and value diversity at our company. We do n
 ## SalesTrip Vision
 "Travel and Expense" is a multi-billion dollar industry dominated by behemoths who haven't innovated in a decade or more. We are building an end-to-end, SaaS Travel and Expense (T&E) platform, and will own this market within the next 5 years by fundamentally changing the way the industry works. Our tech stack is cutting edge (e.g. AI, Google Cloud, Kubernetes) and will deliver a user experience unmatched by anything available today. The opportunity is huge, SalesTrip will facilitate proactive functional capabilities in the T&E area that aren't yet being dreamt about, whilst also massively reduce operating costs.
 
-SalesTrip is well funded, and several members of the founding team have previously built and sold amazing companies (making our ex-employees a lot more wealthy in the process). Our people are some of the most recognised within their respective areas, from technology through to industry experience and we're determined to succeed - ultimately changing the way the entire industry works.
+SalesTrip is well funded, and several members of the founding team have previously built and sold amazing companies (making our ex-employees a lot more wealthy in the process). Our people are some of the most recognised within their respective areas, from technology through to industry experience and we're determined to succeed.
 
 ## Our Business Right Now
-We hired our first employees in August 2017 and so are still fairly young! This provides an incredible opportunity for early joiners, high-growth startups accelerate your career like no other business. So far we employ 9 people across the US and UK, with London being the HQ of our operations. The technical team (there are 4 of us) all work in an office halfway between Angel and Old Street stations, and have spent for the first few months of the year designing the foundation of our platform. We've recently moved into development and are now looking for ambitious individuals who will help us design and build out the SalesTrip platform.
+We hired our first employees in June 2017 and so are still fairly young! This provides an incredible opportunity for early joiners - high-growth startups accelerate your career like no other business. So far we employ 10 people across the US and UK, with London being the HQ of our operations. The technical team (there are 4 of us) all work in an office halfway between Angel and Old Street stations, and have spent for the first couple months of the year designing the foundation of our platform. We're now looking for ambitious individuals who will help us design and build out the SalesTrip platform.
 
 ## Tech Stack 🤖
 The breadth and depth of our intended platform is enormous, a SaaS offering that will need to scale to hundreds-of-thousands of business users. This is reflected in our [choice of technology](https://stackshare.io/salestrip/salestrip), although we expect this to evolve as we design and build.
