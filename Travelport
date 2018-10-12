@@ -1,9 +1,10 @@
 <img src="https://i.imgur.com/ssIuhQW.jpg" width="200px">
 
-# Software Engineer (Full Stack and Backend Roles Available) - Central London, UK
+# Travelport Software Engineer - Central London, UK
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/salestrip/salestrip)
 
-We're looking for software engineers to help build the foundations (and beyond!) of the SalesTrip Engine. You will ideally be someone with deep technical roots, and that is excited at the prospect of working with new technologies. In this role, you will drive the development process of specific features in our SaaS offering. You'll engage in problem analysis and outline implementation details. You'll code and build features in ad-hoc, multi-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to Sid, the Lead Architect of this platform area.
+We're looking for software engineers to help build the foundations (and beyond!) of the SalesTrip Engine.  You will ideally be someone with extensive Travelport API experience, and that is excited at the prospect of working with new technologies. In this role, you will drive the development process of specific features in our SaaS offering. You'll engage in problem analysis and outline implementation details. You'll code and build features in ad-hoc, multi-functional feature teams. You'll work in a full CI/CD environment, at a sustainable pace in our ongoing Kanban-driven process. You'll take part in maintaining and supporting our service. You will report to Sid, the Lead Architect of this platform area.
+
 
 ## Responsibilities
 ### Participate in feature design
@@ -27,27 +28,18 @@ Our team includes some of the best industry experts and working with them helps 
 Ideally you will have a proven track record working on scalable web applications within a lean agile environment, and be comfortable working on the newest tech stacks with a strong focus on quality and delivery.
 
 - Have a consistent track record of building mission-critical web applications
-- Extensive experience with JavaScript, ES2015 (ES6), ES2016 (ES7)+
-- Node.js application development experience
+- Extensive experience with Travelport Universal API & Galileo Web Services
 - Experience with and appreciation for Test Driven Development
 - A love for writing clean, efficient, readable code
 - Experience working in cross-functional delivery teams
-- Full command of Git
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English
 - Location: London, UK
 
 ### Bonus but not Required
-- Hapi
-- Docker
-- Kubernetes
-- Google Cloud Platform
-- Vue.js, and/or React
-- RxJS
-- TypeScript
 - Familiarity with microservice or service based architectures
 - Experience with Continuous Integration and Continuous Deployment
-- Experience in the travel industry
+- Node.js application development experience
 
 ## The Offer
 - The chance to shape an incredible company, with a team that have built and sold several companies before
@@ -68,7 +60,7 @@ We are an equal opportunity employer and value diversity at our company. We do n
 ## SalesTrip Vision
 "Travel and Expense" is a multi-billion dollar industry dominated by behemoths who haven't innovated in a decade or more. We are building an end-to-end, SaaS Travel and Expense (T&E) platform, and will own this market within the next 5 years by fundamentally changing the way the industry works. Our tech stack is cutting edge (e.g. AI, Google Cloud, Kubernetes) and will deliver a user experience unmatched by anything available today. The opportunity is huge, SalesTrip will facilitate proactive functional capabilities in the T&E area that aren't yet being dreamt about, whilst also massively reduce operating costs.
 
-SalesTrip is well funded, and several members of the founding team have previously built and sold amazing companies. Our people are some of the most recognised within their respective areas, from technology through to industry experience and we're determined to succeed.
+SalesTrip is well funded, and several members of the founding team have previously built and sold amazing companies (making our ex-employees a lot more wealthy in the process). Our people are some of the most recognised within their respective areas, from technology through to industry experience and we're determined to succeed.
 
 ## Our Business Right Now
 We hired our first employees in June 2017 and so are still fairly young! This provides an incredible opportunity for early joiners - high-growth startups accelerate your career like no other business. So far we employ 10 people across the US and UK, with London being the HQ of our operations. The technical team (there are 4 of us) all work in an office halfway between Angel and Old Street stations, and have spent for the first couple months of the year designing the foundation of our platform. We're now looking for ambitious individuals who will help us design and build out the SalesTrip platform.
