@@ -11,7 +11,7 @@ In this role you will own the development of specific features in our Salesforce
 You will have immediate access to two CTAs to guide you through the feature design process, and depending on your ambitions, could eventually take on the design responsibility at various application levels.
 
 #### Create Code
-As you may have guessed, most of your time will be spent coding 🤓 We love Lightning and Salesforce DX, and working with the most cutting-edge technologies. You would be working on a range of technology solutions including integration AI into the SalesTrip platform.
+As you may have guessed, most of your time will be spent coding 🤓 We love Lightning and Salesforce DX, and working with the most cutting-edge technologies. You would be working on a range of technology solutions including integrating AI into the SalesTrip platform.
 Additionally, our Kanban process means we have fewer meetings and devote more of our time to doing what we love, writing code.
 
 ## Skills & Experience
