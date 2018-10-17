@@ -34,9 +34,8 @@ Ideally, you will have been a Salesforce Developer for at least a few years havi
 
 ## The Offer
 - The chance to shape an incredible company, with a team that has built and sold several companies before
-- A market-related salary
-- Stock options
-- Central London office with some remote work
+- A good salary along with a decent number of stock options
+- Central London office with some remote work (if you live outside of London we can discuss remote work)
 - Rest is important so we provide a decent number of holidays
 
 ## Right up your alley?
