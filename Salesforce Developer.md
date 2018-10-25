@@ -20,7 +20,6 @@ Additionally, our Kanban process means we have fewer meetings and devote more of
 Ideally, you will have been a Salesforce Developer for at least a few years having spent some of that time building Lightning Components. In short we’d like you to have:
 
 - 2+ years experience Salesforce Development experience
-- 3+ months experience Lighting Development experience
 - Experience working in cross-functional delivery teams
 - Full command of Git, including GitHub and/or BitBucket
 - Excellent communication skills and self-initiative
@@ -28,13 +27,14 @@ Ideally, you will have been a Salesforce Developer for at least a few years havi
 - Location: London, UK
 
 #### Bonus but not Required
+- 3+ months experience Lighting Development experience
 - Experience developing Salesforce Managed Packages
 - Experience with Continuous Integration and Continuous Deployment
 - Experience in the travel industry
 
 ## The Offer
 - The chance to shape an incredible company, with a team that has built and sold several companies before
-- A good salary along with a decent number of stock options
+- A market-related salary along with a decent number of stock options - enough to make a material difference to your life
 - Central London office with some remote work (if you live outside of London we can discuss remote work)
 - Rest is important so we provide a decent number of holidays
 
