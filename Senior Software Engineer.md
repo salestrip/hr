@@ -45,7 +45,7 @@ Ideally you will have a proven track record working on scalable web applications
 ## The Offer
 - The chance to shape an incredible company, with a team that have built and sold several companies before
 - Stock options
-- A market-related salary. No need to take a massive pay cut when joining us
+- A decent salary
 - Central London office with some remote work
 - A generous hardware budget
 - Rest is important so we provide a decent number of holidays
