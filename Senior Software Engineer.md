@@ -45,7 +45,7 @@ Ideally you will have a proven track record working on scalable web applications
 ## The Offer
 - The chance to shape an incredible company, with a team that have built and sold several companies before
 - Stock options
-- A decent salary
+- Competitive
 - Central London office with some remote work
 - A generous hardware budget
 - Rest is important so we provide a decent number of holidays
@@ -75,7 +75,7 @@ We're looking for senior engineers to join us in our London HQ. Our interview pr
 1. Introductory meeting with Wes (CTO) to understand if you're a good match for us, and we're a good match for you!
 2. A short coding exercise (2 hours max).
 3. A face-to-face discussion where we discuss your code and understand how you like to get things done.
-4. The Offer™ - we present you with 3 packages that allow you to decide the amount of equity vs salary you'd like to sign up to.
+4. The Offer™ 
 5. You join the team 👏🏼
 
 If you have any questions please reach out to [wes@salestrip.com](mailto:wes@salestrip.com).
