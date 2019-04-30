@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ssIuhQW.jpg" width="200px">
+<img src="https://avatars0.githubusercontent.com/u/34094328?s=400&u=c411797d1a9d93332a58942f06e03048cf3642aa&v=4" width="200px">
 
 # Salesforce Developer
 
@@ -11,7 +11,7 @@ In this role you will own the development of specific features in our Salesforce
 You will have immediate access to two CTAs to guide you through the feature design process, and depending on your ambitions, could eventually take on the design responsibility at various application levels.
 
 #### Create Code
-As you may have guessed, most of your time will be spent coding 🤓 We love Lightning and Salesforce DX, and working with the most cutting-edge technologies. You would be working on a range of technology solutions including integrating AI into the SalesTrip platform.
+As you may have guessed, most of your time will be spent coding 🤓 We love Lightning Web Components and Salesforce DX, and working with the most cutting-edge technologies. You would be working on a range of technology solutions including integrating AI into the SalesTrip platform.
 Additionally, our Kanban process means we have fewer meetings and devote more of our time to doing what we love, writing code.
 
 ## Skills & Experience
@@ -21,13 +21,14 @@ Ideally, you will have been a Salesforce Developer for at least a few years havi
 
 - 2+ years experience Salesforce Development experience
 - Experience working in cross-functional delivery teams
-- Full command of Git, including GitHub and/or BitBucket
+- Command of Git, including GitHub and/or BitBucket
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English
 - Location: London, UK
 
 #### Bonus but not Required
-- 3+ months experience Lighting Development experience
+- 3+ months experience Lighting Aura Development
+- Lightning Web Components development experience
 - Experience developing Salesforce Managed Packages
 - Experience with Continuous Integration and Continuous Deployment
 - Experience in the travel industry
